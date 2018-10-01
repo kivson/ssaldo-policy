@@ -5,9 +5,7 @@ O aplicativo SSaldo não coleta informações pessoais ou conteúdos gerados dos
 
 SEÇÃO 1 - O QUE FAREMOS COM ESTA INFORMAÇÃO?
 
-Em nenhum momento coletamos seu cpf ou senha de acesso. Quando você acessa nosso app, coletamos alguns dos seus dados como forma de melhorar nosso serviço. 
-
-Além disso, recebemos automaticamente o protocolo de internet do seu computador, endereço de IP, a fim de obter informações que nos ajudam a aprender sobre seu navegador e sistema operacional. 
+Em nenhum momento coletamos seu cpf ou senha de acesso ou qualquer outra informação que seja possível identificar o usuário do aplicativo.
 
 Email Marketing será realizado apenas caso você permita. Nestes emails você poderá receber notícia sobre nossa loja, novos produtos e outras atualizações.
 
