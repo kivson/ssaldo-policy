@@ -1,6 +1,8 @@
 # ssaldo-policy
 Politica de privacidade SSaldo
 
+O aplicativo SSaldo não coleta informações pessoais ou conteúdos gerados dos usuários finais. Para cada instalação do aplicativo é criado um identificador único de instalação (Install ID). Este Install ID torna possível a coleta de informações para melhorias do serviço. Nós não mapeamos as identidades dos usuários para Install IDs.
+
 SEÇÃO 1 - O QUE FAREMOS COM ESTA INFORMAÇÃO?
 
 Em nenhum momento coletamos seu cpf ou senha de acesso. Quando você acessa nosso app, coletamos alguns dos seus dados como forma de melhorar nosso serviço. 
