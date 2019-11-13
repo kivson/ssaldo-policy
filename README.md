@@ -1,6 +1,6 @@
 # Politica de privacidade SSaldo
 
-Suas informações de conta e senha não são armazenadas ou transmitidas para servidores de coleta de dados de nenhuma forma. Elas são utilziadas única e exclusivamente para acesso aos servidores da Sodexo® (https://www.sodexobeneficios.com.br/), para acessar suas informações de saldo e extrato dos seus vales. Suas informações são trafegadas utilizando as melhores práticas de segurança para transmissão de dados pela internet.
+Suas informações de conta e senha não são armazenadas ou transmitidas para servidores de coleta de dados de nenhuma forma. Elas são utilziadas única e exclusivamente para acesso aos servidores da, para acessar suas informações de saldo e extrato dos seus vales. Suas informações são trafegadas utilizando as melhores práticas de segurança para transmissão de dados pela internet.
 
 O aplicativo SSaldo não coleta informações pessoais ou conteúdos gerados dos usuários finais. Para cada instalação do aplicativo é criado um identificador único de instalação (Install ID). Este Install ID torna possível a coleta de informações para melhorias do serviço. Nós não mapeamos as identidades dos usuários para Install IDs.
 
